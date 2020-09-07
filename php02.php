@@ -3,7 +3,7 @@
 $name = 'jay';
 if ($name == 'jay'){
     echo '私は'. $name .'です';
-} else {
+}  else {
     echo 'jayではありません';
 }
 echo '<br>';
@@ -22,7 +22,7 @@ foreach ($fruits as $fruit){
     echo $fruit;
     echo "\n";
 }
-echo '<br>';
+echo '<br>'; 
 
 //4.　【応用】 次のプログラムのバグを修正し、1から100までの間で5の倍数のみ表示するようにしてみてください。
 
