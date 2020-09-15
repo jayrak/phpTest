@@ -13,7 +13,7 @@ echo $array_day[2];
 $department = '営業部';
 $name = 'jay';
 $keisyo = '様';
-echo $department.$name.$keisyo;
+echo $department." ".$name." ".$keisyo;
 
 //4. 次のプログラムにはバグがあります。どこにバグが有るか調べて修正してみましょう。(バグは1つです。)
 
